@@ -1,6 +1,6 @@
 ---
 
-layout: post
+layout: default.html
 
 title:  "Welcome to Jekyll!"
 
